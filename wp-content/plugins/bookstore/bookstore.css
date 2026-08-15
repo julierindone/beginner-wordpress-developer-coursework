@@ -1,0 +1,4 @@
+/* Whenever a single book is rendered, this class gets added to the body element of the html page. */
+.single-book h1 {
+	color: red;
+}
